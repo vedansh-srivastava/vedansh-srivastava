@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedansh</h1>
 <h3 align="center">CSE Sophomore | Programmer | Developer | Learner</h3>
-
+<center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedansh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="vedansh-srivastava" /> </p>
 
 - 🔭 I’m currently working on **Image Processing and Reverse Searching**
@@ -28,3 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedansh-srivastava&show_icons=true&locale=en" alt="vedansh-srivastava" /></p>
 
+</center>
