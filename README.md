@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedansh</h1>
-<h3 align="center">CSE Sophomore | Programmer | Developer | Learner</h3>
+<h3 align="center">CSE Junior | Programmer | Developer | Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedansh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="vedansh-srivastava" /> </p>
 
