@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedansh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="vedansh-srivastava" /> </p>
 
-- 🔭 I’m currently working on **Image Processing and Reverse Searching**
+- 💻 All of my projects are available at [https://github.com/vedansh-srivastava](https://github.com/vedansh-srivastava)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vedansh-srivastava](https://github.com/vedansh-srivastava)
+- 👨‍💻 Official Problem Setter on **Codechef**
 
 - 📫 How to reach me **vedanshsrivastava99@gmail.com**
 
